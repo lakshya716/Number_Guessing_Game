@@ -54,4 +54,4 @@ Enter your guess: 63
 
 ## 👨‍💻 Author
 
-Lakshya
+Lakshya Verma
